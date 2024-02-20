@@ -1,0 +1,179 @@
+# Translation of Plugins - Inpost Paczkomaty - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Inpost Paczkomaty - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-30 19:18:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Inpost Paczkomaty - Stable (latest release)\n"
+
+#: admin/admin.php:12
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: admin/admin.php:156
+msgid "Inpost Paczkomaty settings"
+msgstr "Inpost Paczkomaty ustawienia"
+
+#: admin/admin.php:168 admin/admin.php:253 admin/admin.php:298
+#: admin/admin.php:331
+msgid "No"
+msgstr "Nie"
+
+#: admin/admin.php:171 admin/admin.php:256 admin/admin.php:301
+#: admin/admin.php:334
+msgid "Yes"
+msgstr "Tak"
+
+#: admin/admin.php:339
+msgid "If you select \"Yes\", when client make new order and choose Inpost Paczkomaty as shipping method, in his shipping address will be selected paczkomat."
+msgstr "Jeśli zaznaczysz \"Tak\", gdy klient złoży nowe zamówienie i wybierze jako metodę wysyłki Inpost Paczkomaty, w jego adresie dostawy zostanie wybrany adres paczkomatu."
+
+#: admin/admin.php:459
+msgid "Settings Saved"
+msgstr "Ustawienia zostały zapisane"
+
+#: admin/admin.php:20
+msgid "Save selected paczkomat as shipping address"
+msgstr "Zapisz wybrany paczkomat jako adres do wysyłki"
+
+#: includes/settings-inpost-paczkomaty.php:72
+msgid "If checked, free shipping would be available based on pre-discount order amount."
+msgstr "Jeśli zaznaczone, bezpłatna wysyłka będzie dostępna na podstawie kwoty zamówienia przed rabatem."
+
+#: includes/settings-inpost-paczkomaty.php:70
+msgid "Apply minimum order rule before coupon discount"
+msgstr "Zastosuj regułę minimalnego zamówienia sprzed użycia kuponu zniżkowego"
+
+#: includes/settings-inpost-paczkomaty.php:69
+msgid "Coupons discounts"
+msgstr "Rabat dla kuponów"
+
+#: includes/settings-inpost-paczkomaty.php:48
+msgid "A minimum and maximum order amount"
+msgstr "Minimalna i maksymalna suma zamówienia"
+
+#: inpost-paczkomaty.php:852
+msgid "Paczkomat"
+msgstr "Paczkomat"
+
+#: inpost-paczkomaty.php:835
+msgid "Selected Paczkomat"
+msgstr "Wybrany Paczkomat"
+
+#: inpost-paczkomaty.php:86
+msgid "Paczkomaty inpost shipping method"
+msgstr "Metoda wysyłki Paczkomaty Inpost"
+
+#: includes/settings-inpost-paczkomaty.php:40
+msgid "Show this shipping method when..."
+msgstr "Pokaż tą metodę wysyłki gdy..."
+
+#: includes/settings-inpost-paczkomaty.php:55
+#: includes/settings-inpost-paczkomaty.php:64
+msgid "Users will need to spend this amount to get free shipping (if enabled above)."
+msgstr "Użytkownicy będą musieli wydać tą kwotę aby dostać darmową wysyłkę (jeżeli zaznaczone wyżej)"
+
+#: includes/settings-inpost-paczkomaty.php:52
+msgid "Minimum order amount"
+msgstr "Minimalna wartość zamówienia"
+
+#: includes/settings-inpost-paczkomaty.php:46
+msgid "A minimum order amount"
+msgstr "Minimalna wartość zamówienia"
+
+#: includes/settings-inpost-paczkomaty.php:61
+msgid "Maximum order amount"
+msgstr "Maksymalna wartość zamówienia"
+
+#: includes/settings-inpost-paczkomaty.php:47
+msgid "A maximum order amount"
+msgstr "Maksymalna wartość zamówienia"
+
+#: inpost-paczkomaty.php:664
+msgid "Nie wybrano paczkomatu. Wybierz paczkomat lub zmień formę wysyłki."
+msgstr "Nie wybrano paczkomatu. Wybierz paczkomat lub zmień formę wysyłki."
+
+#: includes/settings-inpost-paczkomaty.php:121
+msgid "Per order: Charge shipping for the most expensive shipping class"
+msgstr "Na zamówienie: Opłata za wysyłkę dla najdroższej klasy wysyłkowej"
+
+#: includes/settings-inpost-paczkomaty.php:120
+msgid "Per class: Charge shipping for each shipping class individually"
+msgstr "Za klasę: Naliczaj wysyłkę osobno dla każdej klasy wysyłkowej"
+
+#: includes/settings-inpost-paczkomaty.php:115
+msgid "Calculation type"
+msgstr "Wartość obliczeniowa"
+
+#: includes/settings-inpost-paczkomaty.php:105
+msgid "No shipping class cost"
+msgstr "Brak kosztów klasy wysyłki"
+
+#: includes/settings-inpost-paczkomaty.php:45
+#: includes/settings-inpost-paczkomaty.php:96
+#: includes/settings-inpost-paczkomaty.php:107
+msgid "N/A"
+msgstr "Niedostępne"
+
+#. translators: %s: shipping class name
+#: includes/settings-inpost-paczkomaty.php:94
+msgid "\"%s\" shipping class cost"
+msgstr "Koszt klasy wysyłkowej „%s”"
+
+#. translators: %s: URL for link.
+#: includes/settings-inpost-paczkomaty.php:86
+msgid "These costs can optionally be added based on the <a href=\"%s\">product shipping class</a>."
+msgstr "Koszty te można opcjonalnie dodać na podstawie <a href=\"%s\">klasy wysyłki produktu</a>."
+
+#: includes/settings-inpost-paczkomaty.php:82
+msgid "Shipping class costs"
+msgstr "Koszty klasy wysyłkowej"
+
+#: includes/settings-inpost-paczkomaty.php:31
+msgid "Cost"
+msgstr "Koszt"
+
+#: includes/settings-inpost-paczkomaty.php:26
+msgid "Taxable"
+msgstr "Opodatkowany"
+
+#: includes/settings-inpost-paczkomaty.php:21
+msgid "Tax status"
+msgstr "Status podatku"
+
+#: includes/settings-inpost-paczkomaty.php:14
+#: includes/settings-inpost-paczkomaty.php:16
+#: includes/settings-inpost-paczkomaty.php:17
+msgid "Paczkomaty"
+msgstr "Paczkomaty"
+
+#: includes/settings-inpost-paczkomaty.php:10
+msgid "Use <code>[qty]</code> for the number of items, <br/><code>[cost]</code> for the total cost of items, and <code>[fee percent=\"10\" min_fee=\"20\" max_fee=\"\"]</code> for percentage based fees."
+msgstr "Użyj <code>[qty]</code> dla liczby elementów, <br/><code>[cost]</code> dla całkowitego kosztu elementów i <code>[fee percent=\"10\" min_fee =\"20\" max_fee=\"\"]</code> dla opłat procentowych."
+
+#: includes/settings-inpost-paczkomaty.php:10
+msgid "Enter a cost (excl. tax) or sum, e.g. <code>10.00 * [qty]</code>."
+msgstr "Wpisz koszt (bez podatku) lub sumę, np. <code>10.00 * [ilość]</code>."
+
+#. Author of the plugin
+msgid "Damian Ziarnik"
+msgstr "Damian Ziarnik"
+
+#. Description of the plugin
+msgid "Plugin do obsługi paczkomatów inpost w woocommerce."
+msgstr "Plugin do obsługi paczkomatów inpost w woocommerce."
+
+#. Plugin Name of the plugin
+#: inpost-paczkomaty.php:85
+msgid "Inpost Paczkomaty"
+msgstr "Inpost Paczkomaty"
+
+#: includes/settings-inpost-paczkomaty.php:27
+msgctxt "Tax status"
+msgid "None"
+msgstr "Brak"

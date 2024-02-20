@@ -1,0 +1,1268 @@
+
+20-02-2024 10:54:58 [localhost][info] Parent plugin start installation!
+20-02-2024 10:54:58 [localhost][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.7
+20-02-2024 10:54:58 [localhost][info] Parent plugin installation complete!
+-------------------------------
+20-02-2024 11:01:11 [localhost][info] Try to create backup directory. Backup dir: (C:/wamp64/www/shoop-wp/wp-content/uploads/wio_backup)
+-------------------------------
+20-02-2024 11:02:21 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:02:21 [localhost][info] Try to create backup directory. Backup dir: (C:/wamp64/www/shoop-wp/wp-content/uploads/wio_backup/2018/10)
+20-02-2024 11:02:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-1.jpg) to a remote server (server_1).
+20-02-2024 11:02:21 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:02:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-1-300x179.jpg) to a remote server (server_1).
+20-02-2024 11:02:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-1-768x457.jpg) to a remote server (server_1).
+20-02-2024 11:02:23 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:23 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:02:23 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:23 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-1-600x357.jpg) to a remote server (server_1).
+20-02-2024 11:02:23 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:24 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:02:24 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:24 [localhost][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"17","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":165884,"final_size":161260,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":48925,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423344}
+20-02-2024 11:02:24 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 64
+-------------------------------
+20-02-2024 11:02:26 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:02:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-2.jpg) to a remote server (server_1).
+20-02-2024 11:02:26 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:27 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:02:27 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:27 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:02:27 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:27 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:02:27 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:27 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-single-img-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:02:27 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:28 [localhost][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"18","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":61038,"final_size":59935,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":20702,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423348}
+20-02-2024 11:02:28 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 63
+-------------------------------
+20-02-2024 11:02:30 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:02:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-1.jpg) to a remote server (server_1).
+20-02-2024 11:02:31 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:31 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:02:31 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:31 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-1-300x143.jpg) to a remote server (server_1).
+20-02-2024 11:02:31 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:31 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-1-768x366.jpg) to a remote server (server_1).
+20-02-2024 11:02:31 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:32 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:02:32 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:32 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-1-600x286.jpg) to a remote server (server_1).
+20-02-2024 11:02:32 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:32 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:02:32 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:33 [localhost][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"19","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":168580,"final_size":162656,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":44660,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423353}
+20-02-2024 11:02:33 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 62
+-------------------------------
+20-02-2024 11:02:34 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:02:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-2.jpg) to a remote server (server_1).
+20-02-2024 11:02:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:02:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:35 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-2-300x143.jpg) to a remote server (server_1).
+20-02-2024 11:02:35 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:35 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-2-768x366.jpg) to a remote server (server_1).
+20-02-2024 11:02:35 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:35 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:02:35 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:36 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-2-600x286.jpg) to a remote server (server_1).
+20-02-2024 11:02:36 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:36 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:02:36 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:36 [localhost][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"20","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":119168,"final_size":115217,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":31384,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423356}
+20-02-2024 11:02:36 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 61
+-------------------------------
+20-02-2024 11:02:39 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:02:39 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-3.jpg) to a remote server (server_1).
+20-02-2024 11:02:39 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:39 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-3-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:02:39 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:39 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-3-300x143.jpg) to a remote server (server_1).
+20-02-2024 11:02:40 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:40 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-3-768x366.jpg) to a remote server (server_1).
+20-02-2024 11:02:40 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:40 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-3-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:02:40 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:40 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-3-600x286.jpg) to a remote server (server_1).
+20-02-2024 11:02:41 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:41 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-3-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:02:41 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:41 [localhost][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"21","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":154304,"final_size":149663,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":45283,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423361}
+20-02-2024 11:02:41 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 60
+-------------------------------
+20-02-2024 11:02:42 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:02:43 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-4.jpg) to a remote server (server_1).
+20-02-2024 11:02:43 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:43 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-4-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:02:43 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:43 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-4-300x143.jpg) to a remote server (server_1).
+20-02-2024 11:02:43 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:43 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-4-768x366.jpg) to a remote server (server_1).
+20-02-2024 11:02:43 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:44 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-4-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:02:44 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:44 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-4-600x286.jpg) to a remote server (server_1).
+20-02-2024 11:02:44 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:44 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-4-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:02:44 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:45 [localhost][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"22","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":118323,"final_size":113513,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":25817,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423365}
+20-02-2024 11:02:45 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 59
+-------------------------------
+20-02-2024 11:02:46 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:02:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-5.jpg) to a remote server (server_1).
+20-02-2024 11:02:46 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-5-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:02:46 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-5-300x201.jpg) to a remote server (server_1).
+20-02-2024 11:02:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-5-768x516.jpg) to a remote server (server_1).
+20-02-2024 11:02:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-5-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:02:48 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-5-600x403.jpg) to a remote server (server_1).
+20-02-2024 11:02:48 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-5-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:02:48 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:48 [localhost][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"45","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":190474,"final_size":184895,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":73056,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423368}
+20-02-2024 11:02:48 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 58
+-------------------------------
+20-02-2024 11:02:50 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:02:50 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-6.jpg) to a remote server (server_1).
+20-02-2024 11:02:50 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:50 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-6-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:02:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:51 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-6-300x201.jpg) to a remote server (server_1).
+20-02-2024 11:02:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:51 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-6-768x516.jpg) to a remote server (server_1).
+20-02-2024 11:02:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-6-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:02:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-6-600x403.jpg) to a remote server (server_1).
+20-02-2024 11:02:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:53 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-6-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:02:53 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:53 [localhost][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"46","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":409689,"final_size":387057,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":162911,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423373}
+20-02-2024 11:02:53 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 57
+-------------------------------
+20-02-2024 11:02:54 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:02:54 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-7.jpg) to a remote server (server_1).
+20-02-2024 11:02:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-7-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:02:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-7-300x201.jpg) to a remote server (server_1).
+20-02-2024 11:02:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-7-768x516.jpg) to a remote server (server_1).
+20-02-2024 11:02:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-7-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:02:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:57 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-7-600x403.jpg) to a remote server (server_1).
+20-02-2024 11:02:57 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:57 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-7-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:02:57 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:57 [localhost][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"47","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":364576,"final_size":339779,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":147481,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423377}
+20-02-2024 11:02:57 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 56
+-------------------------------
+20-02-2024 11:02:59 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:02:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-8.jpg) to a remote server (server_1).
+20-02-2024 11:02:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-8-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:02:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-8-300x201.jpg) to a remote server (server_1).
+20-02-2024 11:02:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:02:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-8-768x516.jpg) to a remote server (server_1).
+20-02-2024 11:03:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-8-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-8-600x403.jpg) to a remote server (server_1).
+20-02-2024 11:03:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:01 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-8-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:01 [localhost][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"48","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":134518,"final_size":128377,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":41377,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423381}
+20-02-2024 11:03:01 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 55
+-------------------------------
+20-02-2024 11:03:02 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:02 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-9.jpg) to a remote server (server_1).
+20-02-2024 11:03:02 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-9-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:03 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-9-300x201.jpg) to a remote server (server_1).
+20-02-2024 11:03:03 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-9-768x516.jpg) to a remote server (server_1).
+20-02-2024 11:03:03 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-9-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:04 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-9-600x403.jpg) to a remote server (server_1).
+20-02-2024 11:03:04 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-9-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:05 [localhost][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"49","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":197413,"final_size":189455,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":60083,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423385}
+20-02-2024 11:03:05 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 54
+-------------------------------
+20-02-2024 11:03:06 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:06 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-10.jpg) to a remote server (server_1).
+20-02-2024 11:03:06 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-10-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-10-300x201.jpg) to a remote server (server_1).
+20-02-2024 11:03:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-10-768x516.jpg) to a remote server (server_1).
+20-02-2024 11:03:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-10-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:08 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-10-600x403.jpg) to a remote server (server_1).
+20-02-2024 11:03:08 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-10-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:08 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:08 [localhost][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"50","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":206301,"final_size":202588,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":68864,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423388}
+20-02-2024 11:03:08 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 53
+-------------------------------
+20-02-2024 11:03:10 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:10 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-11.jpg) to a remote server (server_1).
+20-02-2024 11:03:10 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:11 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-11-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:11 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-11-300x200.jpg) to a remote server (server_1).
+20-02-2024 11:03:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:11 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-11-768x512.jpg) to a remote server (server_1).
+20-02-2024 11:03:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:12 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-11-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:12 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:12 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-11-600x400.jpg) to a remote server (server_1).
+20-02-2024 11:03:12 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:12 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/blog-img-11-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:12 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:12 [localhost][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"63","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":163028,"final_size":159773,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":55151,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423392}
+20-02-2024 11:03:12 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 52
+-------------------------------
+20-02-2024 11:03:14 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:14 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-1.jpg) to a remote server (server_1).
+20-02-2024 11:03:14 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:14 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:14 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:14 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-1-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:15 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-1-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:03:15 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-1-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:03:15 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-1-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:03:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:16 [localhost][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"67","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":211125,"final_size":194791,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":55249,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423396}
+20-02-2024 11:03:16 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 51
+-------------------------------
+20-02-2024 11:03:19 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:19 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-2.jpg) to a remote server (server_1).
+20-02-2024 11:03:19 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:20 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:20 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:20 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-2-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:20 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:20 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-2-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:03:20 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-2-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:03:21 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:21 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-2-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:03:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:22 [localhost][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"68","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":403905,"final_size":380961,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":153838,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423402}
+20-02-2024 11:03:22 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 50
+-------------------------------
+20-02-2024 11:03:24 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:24 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-3.jpg) to a remote server (server_1).
+20-02-2024 11:03:24 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:24 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-3-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:24 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-3-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-3-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:03:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-3-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:03:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-3-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:26 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-3-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:03:26 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/1-3-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:27 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:27 [localhost][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"69","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":145217,"final_size":138076,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":34364,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423407}
+20-02-2024 11:03:27 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 49
+-------------------------------
+20-02-2024 11:03:28 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:28 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-1.jpg) to a remote server (server_1).
+20-02-2024 11:03:28 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-1-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-1-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:03:30 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-1-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:03:30 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:30 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:31 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-1-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:03:31 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:31 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:31 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:31 [localhost][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"70","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":329812,"final_size":309856,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":89679,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423411}
+20-02-2024 11:03:31 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 48
+-------------------------------
+20-02-2024 11:03:33 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-2.jpg) to a remote server (server_1).
+20-02-2024 11:03:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-2-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-2-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:03:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-2-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:03:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:35 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:35 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-2-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:03:35 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:35 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:35 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:35 [localhost][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"71","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":180451,"final_size":174656,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":45681,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423415}
+20-02-2024 11:03:35 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 47
+-------------------------------
+20-02-2024 11:03:38 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:38 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-3.jpg) to a remote server (server_1).
+20-02-2024 11:03:38 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:38 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-3-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:38 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:39 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-3-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:39 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:39 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-3-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:03:39 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:39 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-3-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:03:40 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:40 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-3-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:40 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:40 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-3-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:03:40 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:40 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/2-3-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:41 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:41 [localhost][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"72","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":215896,"final_size":208280,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":54396,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423421}
+20-02-2024 11:03:41 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 46
+-------------------------------
+20-02-2024 11:03:42 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:42 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-1.jpg) to a remote server (server_1).
+20-02-2024 11:03:42 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:43 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:43 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:43 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-1-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:43 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:43 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-1-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:03:43 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:44 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-1-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:03:44 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:44 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:44 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:44 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-1-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:03:45 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:45 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:45 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:45 [localhost][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"73","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":180410,"final_size":168034,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":47125,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423425}
+20-02-2024 11:03:45 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 45
+-------------------------------
+20-02-2024 11:03:46 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-2.jpg) to a remote server (server_1).
+20-02-2024 11:03:46 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-2-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-2-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:03:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-2-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:03:48 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:48 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-2-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:03:48 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:49 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:49 [localhost][debug] New queue created #21, attributes values: {"server_id":null,"object_id":"74","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":148555,"final_size":138509,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":37175,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423429}
+20-02-2024 11:03:49 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 44
+-------------------------------
+20-02-2024 11:03:50 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:50 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-3.jpg) to a remote server (server_1).
+20-02-2024 11:03:50 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:51 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-3-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:51 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-3-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:51 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-3-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:03:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:51 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-3-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:03:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-3-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-3-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:03:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/3-3-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:52 [localhost][debug] New queue created #22, attributes values: {"server_id":null,"object_id":"75","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":78201,"final_size":64567,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":15714,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423432}
+20-02-2024 11:03:52 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 43
+-------------------------------
+20-02-2024 11:03:54 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:54 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-1.jpg) to a remote server (server_1).
+20-02-2024 11:03:54 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-1-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-1-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:03:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-1-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:03:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-1-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:03:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:57 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:03:57 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:57 [localhost][debug] New queue created #23, attributes values: {"server_id":null,"object_id":"76","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":224793,"final_size":210249,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":63820,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423437}
+20-02-2024 11:03:57 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 42
+-------------------------------
+20-02-2024 11:03:58 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:03:58 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-2.jpg) to a remote server (server_1).
+20-02-2024 11:03:58 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:03:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-2-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:03:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:03:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-2-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:04:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-2-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:04:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:01 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-2-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:04:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:01 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:01 [localhost][debug] New queue created #24, attributes values: {"server_id":null,"object_id":"77","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":184658,"final_size":168979,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":51491,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423441}
+20-02-2024 11:04:01 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 41
+-------------------------------
+20-02-2024 11:04:03 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-3.jpg) to a remote server (server_1).
+20-02-2024 11:04:03 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-3-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:03 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-3-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:03 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-3-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:04:04 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-3-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:04:04 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-3-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:04 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-3-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:04:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/4-3-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:05 [localhost][debug] New queue created #25, attributes values: {"server_id":null,"object_id":"78","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":71844,"final_size":55367,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":14224,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423445}
+20-02-2024 11:04:05 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 40
+-------------------------------
+20-02-2024 11:04:06 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:06 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-1.jpg) to a remote server (server_1).
+20-02-2024 11:04:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-1-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-1-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:04:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-1-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:04:08 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:08 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-1-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:04:09 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:09 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:09 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:09 [localhost][debug] New queue created #26, attributes values: {"server_id":null,"object_id":"79","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":213751,"final_size":199196,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":56221,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423449}
+20-02-2024 11:04:09 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 39
+-------------------------------
+20-02-2024 11:04:10 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:10 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-2.jpg) to a remote server (server_1).
+20-02-2024 11:04:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:11 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:11 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-2-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:11 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-2-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:04:12 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:12 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-2-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:04:12 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:12 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:12 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:12 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-2-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:04:13 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:13 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:13 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:13 [localhost][debug] New queue created #27, attributes values: {"server_id":null,"object_id":"80","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":141218,"final_size":134320,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":34559,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423453}
+20-02-2024 11:04:13 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 38
+-------------------------------
+20-02-2024 11:04:14 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:14 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-3.jpg) to a remote server (server_1).
+20-02-2024 11:04:14 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-3-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:15 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-3-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:15 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-3-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:04:15 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-3-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:04:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-3-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-3-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:04:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/5-3-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:17 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:17 [localhost][debug] New queue created #28, attributes values: {"server_id":null,"object_id":"81","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":142005,"final_size":131595,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":33745,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423457}
+20-02-2024 11:04:17 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 37
+-------------------------------
+20-02-2024 11:04:19 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:19 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-1.jpg) to a remote server (server_1).
+20-02-2024 11:04:19 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:20 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:20 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:20 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-1-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:20 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:20 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-1-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:04:20 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-1-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:04:21 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:21 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-1-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:04:21 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:22 [localhost][debug] New queue created #29, attributes values: {"server_id":null,"object_id":"82","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":261691,"final_size":244450,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":84454,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423462}
+20-02-2024 11:04:22 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 36
+-------------------------------
+20-02-2024 11:04:23 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:23 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-2.jpg) to a remote server (server_1).
+20-02-2024 11:04:24 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:24 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:24 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:24 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-2-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:24 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:24 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-2-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:04:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-2-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:04:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-2-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:04:26 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:26 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:26 [localhost][debug] New queue created #30, attributes values: {"server_id":null,"object_id":"83","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":207117,"final_size":189600,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":63606,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423466}
+20-02-2024 11:04:26 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+20-02-2024 11:04:27 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:27 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-3.jpg) to a remote server (server_1).
+20-02-2024 11:04:28 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:28 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-3-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:28 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:28 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-3-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:28 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:28 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-3-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:04:28 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-3-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:04:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-3-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-3-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:04:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/6-3-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:30 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:30 [localhost][debug] New queue created #31, attributes values: {"server_id":null,"object_id":"84","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":119134,"final_size":114329,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":28359,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423470}
+20-02-2024 11:04:30 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+20-02-2024 11:04:31 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:31 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-1.jpg) to a remote server (server_1).
+20-02-2024 11:04:32 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:32 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:32 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:32 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-1-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:32 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:32 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-1-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:04:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-1-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:04:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-1-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:04:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:34 [localhost][debug] New queue created #32, attributes values: {"server_id":null,"object_id":"85","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":231249,"final_size":216853,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":65834,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423474}
+20-02-2024 11:04:34 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+20-02-2024 11:04:35 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:35 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-2.jpg) to a remote server (server_1).
+20-02-2024 11:04:36 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:36 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:36 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:36 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-2-234x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:37 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:37 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-2-768x985.jpg) to a remote server (server_1).
+20-02-2024 11:04:37 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:37 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-2-799x1024.jpg) to a remote server (server_1).
+20-02-2024 11:04:37 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:38 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:38 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:38 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-2-600x769.jpg) to a remote server (server_1).
+20-02-2024 11:04:38 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:38 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/7-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:38 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:39 [localhost][debug] New queue created #33, attributes values: {"server_id":null,"object_id":"86","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":250425,"final_size":236584,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":72970,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423479}
+20-02-2024 11:04:39 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+20-02-2024 11:04:41 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:41 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/contact-address.jpg) to a remote server (server_1).
+20-02-2024 11:04:41 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:41 [localhost][debug] New queue created #34, attributes values: {"server_id":null,"object_id":"218","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1277,"final_size":1137,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1277,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423481}
+20-02-2024 11:04:41 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+20-02-2024 11:04:42 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:42 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/contact-mail.jpg) to a remote server (server_1).
+20-02-2024 11:04:42 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:42 [localhost][debug] New queue created #35, attributes values: {"server_id":null,"object_id":"219","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1008,"final_size":934,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1008,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423482}
+20-02-2024 11:04:42 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+20-02-2024 11:04:44 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:44 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/contact-phone.jpg) to a remote server (server_1).
+20-02-2024 11:04:44 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:44 [localhost][debug] New queue created #36, attributes values: {"server_id":null,"object_id":"220","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1057,"final_size":955,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1057,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423484}
+20-02-2024 11:04:44 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+20-02-2024 11:04:45 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:45 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/free.jpeg) to a remote server (server_1).
+20-02-2024 11:04:45 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/free-150x150.jpeg) to a remote server (server_1).
+20-02-2024 11:04:46 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/free-300x169.jpeg) to a remote server (server_1).
+20-02-2024 11:04:46 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/free-768x432.jpeg) to a remote server (server_1).
+20-02-2024 11:04:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/free-1024x576.jpeg) to a remote server (server_1).
+20-02-2024 11:04:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/free-300x300.jpeg) to a remote server (server_1).
+20-02-2024 11:04:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/free-600x338.jpeg) to a remote server (server_1).
+20-02-2024 11:04:48 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/10/free-100x100.jpeg) to a remote server (server_1).
+20-02-2024 11:04:48 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:48 [localhost][debug] New queue created #37, attributes values: {"server_id":null,"object_id":"228","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":270765,"final_size":264726,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":72102,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423488}
+20-02-2024 11:04:48 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+20-02-2024 11:04:50 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:50 [localhost][info] Try to create backup directory. Backup dir: (C:/wamp64/www/shoop-wp/wp-content/uploads/wio_backup/2018/11)
+20-02-2024 11:04:50 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2018/11/favicon.png) to a remote server (server_1).
+20-02-2024 11:04:50 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:50 [localhost][debug] New queue created #38, attributes values: {"server_id":null,"object_id":"282","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1830,"final_size":1830,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1830,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423490}
+20-02-2024 11:04:51 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+20-02-2024 11:04:52 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:52 [localhost][info] Try to create backup directory. Backup dir: (C:/wamp64/www/shoop-wp/wp-content/uploads/wio_backup/2020/06)
+20-02-2024 11:04:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2020/06/24177654_314505439047217_4089965401700564992_nfull.jpg) to a remote server (server_1).
+20-02-2024 11:04:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2020/06/24177654_314505439047217_4089965401700564992_nfull-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:53 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:53 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2020/06/24177654_314505439047217_4089965401700564992_nfull-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:53 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:53 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2020/06/24177654_314505439047217_4089965401700564992_nfull-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:53 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:53 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2020/06/24177654_314505439047217_4089965401700564992_nfull-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:53 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:54 [localhost][debug] New queue created #39, attributes values: {"server_id":null,"object_id":"888","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":85460,"final_size":84031,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":38796,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423494}
+20-02-2024 11:04:54 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+20-02-2024 11:04:55 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2020/06/24253948_148465415796841_6128439768956010496_nfull.jpg) to a remote server (server_1).
+20-02-2024 11:04:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2020/06/24253948_148465415796841_6128439768956010496_nfull-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:04:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2020/06/24253948_148465415796841_6128439768956010496_nfull-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2020/06/24253948_148465415796841_6128439768956010496_nfull-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:04:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2020/06/24253948_148465415796841_6128439768956010496_nfull-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:04:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:04:57 [localhost][debug] New queue created #40, attributes values: {"server_id":null,"object_id":"889","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":59006,"final_size":58009,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":22638,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423496}
+20-02-2024 11:04:57 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+20-02-2024 11:04:59 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:04:59 [localhost][info] Try to create backup directory. Backup dir: (C:/wamp64/www/shoop-wp/wp-content/uploads/wio_backup/2024/02)
+20-02-2024 11:04:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres3w1.jpeg) to a remote server (server_1).
+20-02-2024 11:04:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres3w1-150x150.jpeg) to a remote server (server_1).
+20-02-2024 11:05:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres3w1-226x300.jpeg) to a remote server (server_1).
+20-02-2024 11:05:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres3w1-768x1020.jpeg) to a remote server (server_1).
+20-02-2024 11:05:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:01 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres3w1-771x1024.jpeg) to a remote server (server_1).
+20-02-2024 11:05:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:01 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres3w1-300x300.jpeg) to a remote server (server_1).
+20-02-2024 11:05:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:02 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres3w1-600x797.jpeg) to a remote server (server_1).
+20-02-2024 11:05:02 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:02 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres3w1-100x100.jpeg) to a remote server (server_1).
+20-02-2024 11:05:02 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:02 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres3w1-50x50.jpeg) to a remote server (server_1).
+20-02-2024 11:05:02 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:02 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres3w1-100x100.jpeg) to a remote server (server_1).
+20-02-2024 11:05:02 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:03 [localhost][debug] New queue created #41, attributes values: {"server_id":null,"object_id":"5027","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":239341,"final_size":217312,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":9,\"original_main_size\":86850,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423503}
+20-02-2024 11:05:03 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+20-02-2024 11:05:04 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres-kobiecy.jpeg) to a remote server (server_1).
+20-02-2024 11:05:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres-kobiecy-150x150.jpeg) to a remote server (server_1).
+20-02-2024 11:05:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres-kobiecy-226x300.jpeg) to a remote server (server_1).
+20-02-2024 11:05:06 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:06 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres-kobiecy-768x1020.jpeg) to a remote server (server_1).
+20-02-2024 11:05:06 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:06 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres-kobiecy-771x1024.jpeg) to a remote server (server_1).
+20-02-2024 11:05:06 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:06 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres-kobiecy-300x300.jpeg) to a remote server (server_1).
+20-02-2024 11:05:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres-kobiecy-600x797.jpeg) to a remote server (server_1).
+20-02-2024 11:05:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres-kobiecy-100x100.jpeg) to a remote server (server_1).
+20-02-2024 11:05:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres-kobiecy-50x50.jpeg) to a remote server (server_1).
+20-02-2024 11:05:07 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/dres-kobiecy-100x100.jpeg) to a remote server (server_1).
+20-02-2024 11:05:08 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:08 [localhost][debug] New queue created #42, attributes values: {"server_id":null,"object_id":"5028","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":201402,"final_size":189178,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":9,\"original_main_size\":73599,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423508}
+20-02-2024 11:05:08 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+20-02-2024 11:05:09 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:09 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-czarna.jpg) to a remote server (server_1).
+20-02-2024 11:05:10 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:10 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-czarna-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:10 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:10 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-czarna-200x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:10 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:10 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-czarna-768x1152.jpg) to a remote server (server_1).
+20-02-2024 11:05:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:11 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-czarna-683x1024.jpg) to a remote server (server_1).
+20-02-2024 11:05:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:11 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-czarna-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:12 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-czarna-600x900.jpg) to a remote server (server_1).
+20-02-2024 11:05:12 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:12 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-czarna-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:12 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:12 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-czarna-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:12 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:13 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-czarna-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:13 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:13 [localhost][debug] New queue created #43, attributes values: {"server_id":null,"object_id":"5031","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":235954,"final_size":221028,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":9,\"original_main_size\":73591,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423513}
+20-02-2024 11:05:13 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+20-02-2024 11:05:14 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:14 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza4.jpg) to a remote server (server_1).
+20-02-2024 11:05:15 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza4-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:15 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza4-200x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza4-768x1152.jpg) to a remote server (server_1).
+20-02-2024 11:05:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza4-683x1024.jpg) to a remote server (server_1).
+20-02-2024 11:05:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:17 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza4-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:17 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:17 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza4-600x900.jpg) to a remote server (server_1).
+20-02-2024 11:05:17 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:17 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza4-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:17 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:18 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza4-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:18 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:18 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza4-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:18 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:18 [localhost][debug] New queue created #44, attributes values: {"server_id":null,"object_id":"5036","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":434658,"final_size":307554,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":9,\"original_main_size\":277471,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423518}
+20-02-2024 11:05:18 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+20-02-2024 11:05:21 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem.jpg) to a remote server (server_1).
+20-02-2024 11:05:21 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:21 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-225x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:23 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:23 [localhost][debug] New queue created #45, attributes values: {"server_id":null,"object_id":"5043","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":311231,"final_size":124599,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":263437,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423523}
+20-02-2024 11:05:23 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+20-02-2024 11:05:25 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-theme.jpg) to a remote server (server_1).
+20-02-2024 11:05:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-theme-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-theme-225x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-theme-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:26 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-theme-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:26 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-theme-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:26 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/bluza-z-kapturem-theme-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:27 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:27 [localhost][debug] New queue created #46, attributes values: {"server_id":null,"object_id":"5044","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":133705,"final_size":75162,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":92762,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423527}
+20-02-2024 11:05:27 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+20-02-2024 11:05:28 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:28 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/fashion-logo.jpg) to a remote server (server_1).
+20-02-2024 11:05:28 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/fashion-logo-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/fashion-logo-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/fashion-logo-768x768.jpg) to a remote server (server_1).
+20-02-2024 11:05:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/fashion-logo-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:30 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/fashion-logo-600x600.jpg) to a remote server (server_1).
+20-02-2024 11:05:30 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/fashion-logo-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:30 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/fashion-logo-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:30 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/fashion-logo-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:31 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:31 [localhost][debug] New queue created #47, attributes values: {"server_id":null,"object_id":"5045","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":76916,"final_size":69223,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":8,\"original_main_size\":18722,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423531}
+20-02-2024 11:05:31 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+20-02-2024 11:05:32 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:32 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-fashion-logo.jpg) to a remote server (server_1).
+20-02-2024 11:05:32 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-fashion-logo-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-fashion-logo-300x151.jpg) to a remote server (server_1).
+20-02-2024 11:05:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-fashion-logo-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-fashion-logo-600x302.jpg) to a remote server (server_1).
+20-02-2024 11:05:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-fashion-logo-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-fashion-logo-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-fashion-logo-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:34 [localhost][debug] New queue created #48, attributes values: {"server_id":null,"object_id":"5046","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":73203,"final_size":70198,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":24360,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423534}
+20-02-2024 11:05:34 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+20-02-2024 11:05:36 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:36 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-cropped-fashion-logo.jpg) to a remote server (server_1).
+20-02-2024 11:05:36 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:36 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-cropped-fashion-logo-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:36 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:37 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-cropped-fashion-logo-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:37 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:37 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-cropped-fashion-logo-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:37 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:37 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-cropped-fashion-logo-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:37 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:37 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-cropped-fashion-logo-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:37 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:38 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/cropped-cropped-fashion-logo-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:38 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:38 [localhost][debug] New queue created #49, attributes values: {"server_id":null,"object_id":"5049","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":59060,"final_size":58532,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":23629,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423538}
+20-02-2024 11:05:38 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+20-02-2024 11:05:40 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:40 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/background-slide-1.jpg) to a remote server (server_1).
+20-02-2024 11:05:41 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:41 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/background-slide-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:41 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:41 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/background-slide-1-300x201.jpg) to a remote server (server_1).
+20-02-2024 11:05:41 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:41 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/background-slide-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:42 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:42 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/background-slide-1-600x402.jpg) to a remote server (server_1).
+20-02-2024 11:05:42 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:42 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/background-slide-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:42 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:42 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/background-slide-1-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:43 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:43 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/background-slide-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:43 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:43 [localhost][debug] New queue created #50, attributes values: {"server_id":null,"object_id":"5061","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":187014,"final_size":173138,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":79085,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423543}
+20-02-2024 11:05:43 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+20-02-2024 11:05:44 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:44 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/back-shop-slide-2.jpg) to a remote server (server_1).
+20-02-2024 11:05:45 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:45 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/back-shop-slide-2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:45 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:45 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/back-shop-slide-2-300x200.jpg) to a remote server (server_1).
+20-02-2024 11:05:45 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:45 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/back-shop-slide-2-768x512.jpg) to a remote server (server_1).
+20-02-2024 11:05:46 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/back-shop-slide-2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:46 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/back-shop-slide-2-600x400.jpg) to a remote server (server_1).
+20-02-2024 11:05:46 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/back-shop-slide-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/back-shop-slide-2-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/back-shop-slide-2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:47 [localhost][debug] New queue created #51, attributes values: {"server_id":null,"object_id":"5062","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":176202,"final_size":172954,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":8,\"original_main_size\":49999,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423547}
+20-02-2024 11:05:47 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+20-02-2024 11:05:49 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:49 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/damskie.jpg) to a remote server (server_1).
+20-02-2024 11:05:49 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:49 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/damskie-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:49 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:50 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/damskie-300x200.jpg) to a remote server (server_1).
+20-02-2024 11:05:50 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:50 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/damskie-768x513.jpg) to a remote server (server_1).
+20-02-2024 11:05:50 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:50 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/damskie-1024x684.jpg) to a remote server (server_1).
+20-02-2024 11:05:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:51 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/damskie-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:51 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/damskie-600x401.jpg) to a remote server (server_1).
+20-02-2024 11:05:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/damskie-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/damskie-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/damskie-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:53 [localhost][debug] New queue created #52, attributes values: {"server_id":null,"object_id":"5063","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":487220,"final_size":473785,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":9,\"original_main_size\":152656,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423553}
+20-02-2024 11:05:53 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+20-02-2024 11:05:54 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:54 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/man.jpg) to a remote server (server_1).
+20-02-2024 11:05:54 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:54 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/man-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/man-300x147.jpg) to a remote server (server_1).
+20-02-2024 11:05:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/man-768x377.jpg) to a remote server (server_1).
+20-02-2024 11:05:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/man-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:05:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/man-600x295.jpg) to a remote server (server_1).
+20-02-2024 11:05:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/man-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/man-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:05:57 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:57 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/man-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:05:57 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:57 [localhost][debug] New queue created #53, attributes values: {"server_id":null,"object_id":"5066","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":205258,"final_size":197815,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":8,\"original_main_size\":60428,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423557}
+20-02-2024 11:05:57 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+20-02-2024 11:05:58 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:05:58 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-ateny-three.jpg) to a remote server (server_1).
+20-02-2024 11:05:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-ateny-three-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:05:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:05:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-ateny-three-225x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-ateny-three-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-ateny-three-600x800.jpg) to a remote server (server_1).
+20-02-2024 11:06:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:01 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-ateny-three-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:01 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-ateny-three-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:06:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:01 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-ateny-three-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:02 [localhost][debug] New queue created #54, attributes values: {"server_id":null,"object_id":"5107","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":544319,"final_size":313685,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":396167,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423562}
+20-02-2024 11:06:02 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+20-02-2024 11:06:04 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:06:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/koktajlowa-czerwona-sukienka.jpg) to a remote server (server_1).
+20-02-2024 11:06:04 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/koktajlowa-czerwona-sukienka-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:06:04 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/koktajlowa-czerwona-sukienka-225x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/koktajlowa-czerwona-sukienka-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/koktajlowa-czerwona-sukienka-600x800.jpg) to a remote server (server_1).
+20-02-2024 11:06:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/koktajlowa-czerwona-sukienka-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:06 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:06 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/koktajlowa-czerwona-sukienka-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:06:06 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:06 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/koktajlowa-czerwona-sukienka-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:06 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:06 [localhost][debug] New queue created #55, attributes values: {"server_id":null,"object_id":"5112","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":196473,"final_size":193103,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":102939,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423566}
+20-02-2024 11:06:06 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+20-02-2024 11:06:08 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:06:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-naomi-zielony-poswiata-e1708354125934.jpg) to a remote server (server_1).
+20-02-2024 11:06:08 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:09 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-naomi-zielony-poswiata-e1708354125934-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:06:09 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:09 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-naomi-zielony-poswiata-e1708354125934-224x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:09 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:09 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-naomi-zielony-poswiata-e1708354125934-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:09 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:10 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-naomi-zielony-poswiata-e1708354125934-600x802.jpg) to a remote server (server_1).
+20-02-2024 11:06:10 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:10 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-naomi-zielony-poswiata-e1708354125934-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:10 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:10 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-naomi-zielony-poswiata-e1708354125934-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:06:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:11 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-naomi-zielony-poswiata-e1708354125934-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:11 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:11 [localhost][debug] New queue created #56, attributes values: {"server_id":null,"object_id":"5113","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":213252,"final_size":207027,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":7,\"original_main_size\":94673,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423571}
+20-02-2024 11:06:11 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+20-02-2024 11:06:13 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:06:13 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka.jpg) to a remote server (server_1).
+20-02-2024 11:06:13 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:13 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:06:14 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:14 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-193x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:14 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:14 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-768x1195.jpg) to a remote server (server_1).
+20-02-2024 11:06:14 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-658x1024.jpg) to a remote server (server_1).
+20-02-2024 11:06:15 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:15 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-600x934.jpg) to a remote server (server_1).
+20-02-2024 11:06:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:16 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:16 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:06:17 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:17 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:17 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:17 [localhost][debug] New queue created #57, attributes values: {"server_id":null,"object_id":"5114","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":529655,"final_size":513011,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":9,\"original_main_size\":150800,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423577}
+20-02-2024 11:06:17 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+20-02-2024 11:06:19 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:06:20 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6.jpg) to a remote server (server_1).
+20-02-2024 11:06:20 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:06:21 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6-225x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:21 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:21 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6-768x1024.jpg) to a remote server (server_1).
+20-02-2024 11:06:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:22 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6-768x1024.jpg) to a remote server (server_1).
+20-02-2024 11:06:22 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:23 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6-1152x1536.jpg) to a remote server (server_1).
+20-02-2024 11:06:23 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:24 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:24 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:24 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6-600x800.jpg) to a remote server (server_1).
+20-02-2024 11:06:24 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:24 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:06:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:25 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Sukienka-sprzaczka-z-falbanka-MIDI-Rys-zielony-turkus-3-6-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:25 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:25 [localhost][debug] New queue created #58, attributes values: {"server_id":null,"object_id":"5115","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":973312,"final_size":822981,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":10,\"original_main_size\":362798,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423585}
+20-02-2024 11:06:25 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+20-02-2024 11:06:27 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:06:27 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-fioletowa-e1708355403495.jpg) to a remote server (server_1).
+20-02-2024 11:06:27 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:27 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-fioletowa-e1708355403495-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:06:27 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:28 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-fioletowa-e1708355403495-271x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:28 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:28 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-fioletowa-e1708355403495-768x850.jpg) to a remote server (server_1).
+20-02-2024 11:06:28 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:28 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-fioletowa-683x1024.jpg) to a remote server (server_1).
+20-02-2024 11:06:28 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-fioletowa-e1708355403495-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-fioletowa-e1708355403495-600x664.jpg) to a remote server (server_1).
+20-02-2024 11:06:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-fioletowa-e1708355403495-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:29 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-fioletowa-e1708355403495-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:06:30 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/sukienka-fioletowa-e1708355403495-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:30 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:30 [localhost][debug] New queue created #59, attributes values: {"server_id":null,"object_id":"5120","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":275696,"final_size":263372,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":9,\"original_main_size\":77854,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423590}
+20-02-2024 11:06:30 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+20-02-2024 11:06:32 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:06:32 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/spodnie.jpg) to a remote server (server_1).
+20-02-2024 11:06:32 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:32 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/spodnie-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:06:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/spodnie-225x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/spodnie-768x1024.jpg) to a remote server (server_1).
+20-02-2024 11:06:33 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/spodnie-768x1024.jpg) to a remote server (server_1).
+20-02-2024 11:06:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/spodnie-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:34 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/spodnie-600x800.jpg) to a remote server (server_1).
+20-02-2024 11:06:35 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:35 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/spodnie-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:35 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:35 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/spodnie-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:06:35 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:35 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/spodnie-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:35 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:36 [localhost][debug] New queue created #60, attributes values: {"server_id":null,"object_id":"5121","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":495173,"final_size":370303,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":9,\"original_main_size\":300049,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423596}
+20-02-2024 11:06:36 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+20-02-2024 11:06:38 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:06:39 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421.png) to a remote server (server_1).
+20-02-2024 11:06:40 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:41 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421-150x150.png) to a remote server (server_1).
+20-02-2024 11:06:41 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:41 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421-300x118.png) to a remote server (server_1).
+20-02-2024 11:06:42 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:42 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421-768x302.png) to a remote server (server_1).
+20-02-2024 11:06:42 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:43 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421-1024x402.png) to a remote server (server_1).
+20-02-2024 11:06:43 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:44 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421-1536x603.png) to a remote server (server_1).
+20-02-2024 11:06:45 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421-300x300.png) to a remote server (server_1).
+20-02-2024 11:06:46 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421-600x236.png) to a remote server (server_1).
+20-02-2024 11:06:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421-100x100.png) to a remote server (server_1).
+20-02-2024 11:06:47 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421-50x50.png) to a remote server (server_1).
+20-02-2024 11:06:48 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/Skladanie_jeansow_12d8a76d34-e1708355271421-100x100.png) to a remote server (server_1).
+20-02-2024 11:06:48 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:48 [localhost][debug] New queue created #61, attributes values: {"server_id":null,"object_id":"5122","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":7665474,"final_size":2505774,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":10,\"original_main_size\":2997406,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423608}
+20-02-2024 11:06:48 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+20-02-2024 11:06:49 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:06:49 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety.jpg) to a remote server (server_1).
+20-02-2024 11:06:50 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:50 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:06:50 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:50 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:50 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:50 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-768x768.jpg) to a remote server (server_1).
+20-02-2024 11:06:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:51 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:51 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-600x600.jpg) to a remote server (server_1).
+20-02-2024 11:06:51 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:06:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:52 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:52 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:53 [localhost][debug] New queue created #62, attributes values: {"server_id":null,"object_id":"5124","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":194196,"final_size":185966,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":8,\"original_main_size\":74170,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423613}
+20-02-2024 11:06:53 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+20-02-2024 11:06:54 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:06:54 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-1.jpg) to a remote server (server_1).
+20-02-2024 11:06:54 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:54 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-1-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:06:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-1-768x768.jpg) to a remote server (server_1).
+20-02-2024 11:06:55 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:55 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-1-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-1-600x600.jpg) to a remote server (server_1).
+20-02-2024 11:06:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:56 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-1-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:06:56 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:57 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/komplety-1-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:06:57 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:57 [localhost][debug] New queue created #63, attributes values: {"server_id":null,"object_id":"5125","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":194196,"final_size":185966,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":8,\"original_main_size\":74170,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423617}
+20-02-2024 11:06:57 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+20-02-2024 11:06:58 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:06:58 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka.jpg) to a remote server (server_1).
+20-02-2024 11:06:58 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:06:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka-246x300.jpg) to a remote server (server_1).
+20-02-2024 11:06:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:06:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka-768x935.jpg) to a remote server (server_1).
+20-02-2024 11:06:59 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:07:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka-600x731.jpg) to a remote server (server_1).
+20-02-2024 11:07:00 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:07:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:01 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:07:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:01 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:07:01 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:01 [localhost][debug] New queue created #64, attributes values: {"server_id":null,"object_id":"5233","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":261806,"final_size":251862,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":8,\"original_main_size\":79113,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423621}
+20-02-2024 11:07:01 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+20-02-2024 11:07:03 [localhost][info] Start bulk optimization process! Scope: media-library
+20-02-2024 11:07:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka_2.jpg) to a remote server (server_1).
+20-02-2024 11:07:03 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka_2-150x150.jpg) to a remote server (server_1).
+20-02-2024 11:07:03 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka_2-300x219.jpg) to a remote server (server_1).
+20-02-2024 11:07:03 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka_2-768x561.jpg) to a remote server (server_1).
+20-02-2024 11:07:04 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka_2-300x300.jpg) to a remote server (server_1).
+20-02-2024 11:07:04 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:04 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka_2-600x438.jpg) to a remote server (server_1).
+20-02-2024 11:07:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka_2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:07:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka_2-50x50.jpg) to a remote server (server_1).
+20-02-2024 11:07:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:05 [localhost][info] Preparing to upload a file (C:/wamp64/www/shoop-wp/wp-content/uploads/2024/02/torebka_2-100x100.jpg) to a remote server (server_1).
+20-02-2024 11:07:05 [localhost][info] File successfully uploaded to remote server (server_1).
+20-02-2024 11:07:06 [localhost][debug] New queue created #65, attributes values: {"server_id":null,"object_id":"5234","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":215589,"final_size":208343,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":8,\"original_main_size\":75602,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1708423626}
+20-02-2024 11:07:06 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
